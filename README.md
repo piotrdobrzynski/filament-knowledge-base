@@ -14,6 +14,13 @@ Filament Knowledge Base is here for exactly this reason!
 Using our Knowledge Base package, you can write markdown documentation files to document every feature of your package
 and give your users a comprehensive knowledge base tailored for your product. Right inside Filament!
 
+## Version compatibility
+| Filament version | Plugin version |
+| ---------------- |:--------------:| 
+| 3.x              | 1.x            |
+| 4.x              | 2.x            |
+| 5.x              | 3.x            |
+
 ## Showcase
 
 ![Showcase 01](https://github.com/GuavaCZ/filament-knowledge-base/raw/main/docs/images/screenshot_01.jpeg)
